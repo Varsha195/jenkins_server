@@ -1,3 +1,4 @@
+import java.io.*;
 public class Mul {
   public static void main(String[] args) {
     int x = 5;
